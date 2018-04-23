@@ -3,6 +3,7 @@
     "build": "webpack-dev-server"
   },
   "name": "reactDemo2018",
+  "repository": "https://github.com/GossJS/reactDemo2018.git",
   "version": "1.0.0",
   "main": "./src/index.jsx",
   "license": "MIT",
