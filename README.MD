@@ -9,3 +9,7 @@ cd && mkdir $(date +%Y%m%d_%H%M%S) && cd $_ && git clone https://github.com/Goss
 ```
 
 далее открываем http://localhost:1234
+
+https://github.com/GossJS/reactDemo2018/
+
+работающий пример из этой папки /docs
